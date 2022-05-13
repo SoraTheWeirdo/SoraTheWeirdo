@@ -1,0 +1,3 @@
+- Hello, I'm @SoraTheWeirdo, or Sora.
+- My pronouns are he/she/they
+- I'm currently working toward becoming a full-time Software Developer
